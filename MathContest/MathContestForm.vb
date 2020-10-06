@@ -1,8 +1,8 @@
-﻿'Tim Rossiter
+﻿'Luis Torres
 'RCET0265
 'Fall 2020
 'Math Contest
-'
+'https://github.com/LuisTorres0419/MathContest.git
 
 Public Class MathContestForm
     Dim number1 As Integer
