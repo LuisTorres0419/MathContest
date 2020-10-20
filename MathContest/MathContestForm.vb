@@ -3,13 +3,14 @@
 'Fall 2020
 'Math Contest
 'https://github.com/LuisTorres0419/MathContest.git
-
+Option Strict On
+Option Explicit On ' wont compile - TJR
 Public Class MathContestForm
     Dim number1 As Integer
     Dim number2 As Integer
     Dim systemAnswer As Integer
     Dim problems As Integer = 0I
-    Dim correctproblems As Integer = 0I
+    Dim correctproblems As Integer = 0I 'camelCase -TJR
 
 
 
@@ -255,3 +256,5 @@ Public Class MathContestForm
         End If
     End Sub
 End Class
+
+'summary not accurate - TJR
